@@ -6,3 +6,6 @@ body{background-color:#80007f;}
 .purple{color:indigo;}
 #bold{color:pink;}
 .background{background-color:#ccffff;}
+ul li {
+    display : inline-block;
+} 
